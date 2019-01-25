@@ -1,8 +1,9 @@
 #!/bin/bash
 i=1
-for j in `ls $1`
+for j in `ls ./pics/$1/*/*`
+#for j in `ls $1`
 do
-	echo $1/$j $1/$1$i.jpg
+	mv $j ./pics/$1/$1'__fanbingbing'$i.jpg
 	i=$(expr $i + 1)
 done
 
