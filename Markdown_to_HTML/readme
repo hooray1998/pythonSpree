@@ -1,0 +1,14 @@
+Python markdown 使用 
+首先通过pip 安装python-markdown。
+
+pip install markdown
+1
+安装完成后，使用其有两种方式，一是在命令行下使用markdown_py脚本进行转换：
+
+markdown_py README.md >> README.html
+1
+另外一种使用方法，也就是我使用的方法：导入markdown模块。
+
+import markdown
+html = markdown.markdown(readme_content)
+print(html)

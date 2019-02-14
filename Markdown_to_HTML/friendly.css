@@ -1,0 +1,63 @@
+<style type = "text/css">
+.cnblogs_code  .hll { background-color: #ffffcc }
+.cnblogs_code  .c { color: #60a0b0; font-style: italic } /* Comment */
+.cnblogs_code  .err { border: 1px solid #FF0000 } /* Error */
+.cnblogs_code  .k { color: #007020; font-weight: bold } /* Keyword */
+.cnblogs_code  .o { color: #666666 } /* Operator */
+.cnblogs_code  .cm { color: #60a0b0; font-style: italic } /* Comment.Multiline */
+.cnblogs_code  .cp { color: #007020 } /* Comment.Preproc */
+.cnblogs_code  .c1 { color: #60a0b0; font-style: italic } /* Comment.Single */
+.cnblogs_code  .cs { color: #60a0b0; background-color: #fff0f0 } /* Comment.Special */
+.cnblogs_code  .gd { color: #A00000 } /* Generic.Deleted */
+.cnblogs_code  .ge { font-style: italic } /* Generic.Emph */
+.cnblogs_code  .gr { color: #FF0000 } /* Generic.Error */
+.cnblogs_code  .gh { color: #000080; font-weight: bold } /* Generic.Heading */
+.cnblogs_code  .gi { color: #00A000 } /* Generic.Inserted */
+.cnblogs_code  .go { color: #808080 } /* Generic.Output */
+.cnblogs_code  .gp { color: #c65d09; font-weight: bold } /* Generic.Prompt */
+.cnblogs_code  .gs { font-weight: bold } /* Generic.Strong */
+.cnblogs_code  .gu { color: #800080; font-weight: bold } /* Generic.Subheading */
+.cnblogs_code  .gt { color: #0040D0 } /* Generic.Traceback */
+.cnblogs_code  .kc { color: #007020; font-weight: bold } /* Keyword.Constant */
+.cnblogs_code  .kd { color: #007020; font-weight: bold } /* Keyword.Declaration */
+.cnblogs_code  .kn { color: #007020; font-weight: bold } /* Keyword.Namespace */
+.cnblogs_code  .kp { color: #007020 } /* Keyword.Pseudo */
+.cnblogs_code  .kr { color: #007020; font-weight: bold } /* Keyword.Reserved */
+.cnblogs_code  .kt { color: #902000 } /* Keyword.Type */
+.cnblogs_code  .m { color: #40a070 } /* Literal.Number */
+.cnblogs_code  .s { color: #4070a0 } /* Literal.String */
+.cnblogs_code  .na { color: #4070a0 } /* Name.Attribute */
+.cnblogs_code  .nb { color: #007020 } /* Name.Builtin */
+.cnblogs_code  .nc { color: #0e84b5; font-weight: bold } /* Name.Class */
+.cnblogs_code  .no { color: #60add5 } /* Name.Constant */
+.cnblogs_code  .nd { color: #555555; font-weight: bold } /* Name.Decorator */
+.cnblogs_code  .ni { color: #d55537; font-weight: bold } /* Name.Entity */
+.cnblogs_code  .ne { color: #007020 } /* Name.Exception */
+.cnblogs_code  .nf { color: #06287e } /* Name.Function */
+.cnblogs_code  .nl { color: #002070; font-weight: bold } /* Name.Label */
+.cnblogs_code  .nn { color: #0e84b5; font-weight: bold } /* Name.Namespace */
+.cnblogs_code  .nt { color: #062873; font-weight: bold } /* Name.Tag */
+.cnblogs_code  .nv { color: #bb60d5 } /* Name.Variable */
+.cnblogs_code  .ow { color: #007020; font-weight: bold } /* Operator.Word */
+.cnblogs_code  .w { color: #bbbbbb } /* Text.Whitespace */
+.cnblogs_code  .mf { color: #40a070 } /* Literal.Number.Float */
+.cnblogs_code  .mh { color: #40a070 } /* Literal.Number.Hex */
+.cnblogs_code  .mi { color: #40a070 } /* Literal.Number.Integer */
+.cnblogs_code  .mo { color: #40a070 } /* Literal.Number.Oct */
+.cnblogs_code  .sb { color: #4070a0 } /* Literal.String.Backtick */
+.cnblogs_code  .sc { color: #4070a0 } /* Literal.String.Char */
+.cnblogs_code  .sd { color: #4070a0; font-style: italic } /* Literal.String.Doc */
+.cnblogs_code  .s2 { color: #4070a0 } /* Literal.String.Double */
+.cnblogs_code  .se { color: #4070a0; font-weight: bold } /* Literal.String.Escape */
+.cnblogs_code  .sh { color: #4070a0 } /* Literal.String.Heredoc */
+.cnblogs_code  .si { color: #70a0d0; font-style: italic } /* Literal.String.Interpol */
+.cnblogs_code  .sx { color: #c65d09 } /* Literal.String.Other */
+.cnblogs_code  .sr { color: #235388 } /* Literal.String.Regex */
+.cnblogs_code  .s1 { color: #4070a0 } /* Literal.String.Single */
+.cnblogs_code  .ss { color: #517918 } /* Literal.String.Symbol */
+.cnblogs_code  .bp { color: #007020 } /* Name.Builtin.Pseudo */
+.cnblogs_code  .vc { color: #bb60d5 } /* Name.Variable.Class */
+.cnblogs_code  .vg { color: #bb60d5 } /* Name.Variable.Global */
+.cnblogs_code  .vi { color: #bb60d5 } /* Name.Variable.Instance */
+.cnblogs_code  .il { color: #40a070 } /* Literal.Number.Integer.Long */
+</style>

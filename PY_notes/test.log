@@ -1,0 +1,6 @@
+Tue, 29 Jan 2019 13:23:02 note_chapter7_mainModule.py[line:253] DEBUG debug message
+Tue, 29 Jan 2019 13:23:02 note_chapter7_mainModule.py[line:254] INFO info message
+Tue, 29 Jan 2019 13:23:02 note_chapter7_mainModule.py[line:255] WARNING warning message
+Tue, 29 Jan 2019 13:23:02 note_chapter7_mainModule.py[line:256] ERROR error message
+Tue, 29 Jan 2019 13:23:02 note_chapter7_mainModule.py[line:257] CRITICAL critical message
+Tue, 29 Jan 2019 13:23:02 note_chapter7_mainModule.py[line:261] INFO n = 0
